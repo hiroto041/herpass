@@ -277,7 +277,7 @@ footer {
     main {
         width: 1512px;
         height: 637px;
-        background-image: url(モバイル版背景.png);
+        background-image: url(https://github.com/hiroto041/herpass/blob/main/%E3%83%A2%E3%83%8F%E3%82%99%E3%82%A4%E3%83%AB%E7%89%88%E8%83%8C%E6%99%AF.png?raw=true);
         background-size: cover;
         display: flex;
     }
